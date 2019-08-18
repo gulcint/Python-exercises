@@ -133,3 +133,4 @@ while(puan>0 & puan <50):
     elif (puan  == 50) :
         print("Oyunu kazandınız . :)") 
         
+        
