@@ -38,7 +38,7 @@ for container in containers:
     print("Product Price:",price[i])
     print("-"*40)
 
-    f.write(names[i] + "," + "," + sales[i] + "," + price[i] + "\n")
+    f.write(names[i] + "," + sales[i] + "," + price[i] + "\n")
 
     i +=1
 
